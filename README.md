@@ -119,7 +119,7 @@ A PDK may also include standard cell libraries from the foundry, a library vendo
 
 CONCLUSION: From this chapter we have learnt about the Ics,Different types of Ics, different types of Ics based on design and about tools required for Ic design and what are PDKs and difreeent PDKs.
 ______________________________________________________________________________________________________________________________________________________________________________
-CHAPTER-2 - 30 PAGES
+CHAPTER-2 - 
 2.1 WHAT IS HDL?                                                                                    
 2.2 INTRODUCTION TO VERILOG HDL                                                 
 2.2.1 DATA TYPES
