@@ -309,6 +309,23 @@ CHAPTER-3
 3.2.1 EXAMPLES 
 3.4 CONCLUSION   
 
+3.1 INTRODUCTION TO ASIC DESIGN FLOW :-  Ghum chuka hai dil abh yeh appke dil ki mohabbaat ki galiun mai mautarma,
+                                         ke Ghum chuka hai dil abh yeh appke dil ki mohabaat ki galiun mai ,
+                                         appki mohabbat aur haseen dil ki yeh ranggen aur pyar sukoon bhari galiun mai ghumrah hogya hun,
+                                         main woh gullab jiska appke bina murjhana lazmi hai,
+                                         main wo gullab jiski sar zameen jiski jaad app hai appka dil hai.
+                                         
+                                         iss dill ko qaid karliyah hai appke naam likhe salakhun mai appne,
+                                         appke dil sey abh hamara dil hai issqadar juda hua jise ,
+                                         koi Dil ke taar bandhe hain aise Jaise bandhi bediyaan,
+                                         ankhon mai dimag mai aur khayal mai app ki maujudgi jise samndar ke kinarey parr raith jo pani sey dur na rehsakta.
+                                         
+                                         
+
+\
+                                     
+                                        
+                                    
 
 
 
